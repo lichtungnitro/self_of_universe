@@ -18,7 +18,7 @@ class Nature:
 	'''
 	def __init__(self):
 		self.each = True
-		self.other = not Ture
+		self.other = not True
 
 	def denial(self):
 		self.each = not self.each
