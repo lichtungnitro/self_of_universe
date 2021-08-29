@@ -1,9 +1,11 @@
 # 0. Thanks for Visiting My Humble Page	
 I am more than glad to share you with Tao of universe.	
+
 It cannot be true and, cannot even be false.	
 
 ## 01. What is Self About	
 Thus, it is not a fact but a zen.	
+
 If any of you generate The Universe with the frame of my humble attempt.	
 
 ## 10. What it Looks Like
@@ -65,5 +67,5 @@ if __name__ == "__main__":
 ```
 
 ### 1. Other		
-- :bust_in_silhouette: Author: Nitro	
-- :date: Release Statut: u01.00.0100	
+- :bust_in_silhouette:   **Author**: Nitro	
+- :date:   **Release Statut**: u01.00.0100	
