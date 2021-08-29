@@ -18,7 +18,7 @@ class Nature:
 	'''
 	def __init__(self):
 		self.each = True
-		self.other = False
+		self.other = not Ture
 
 	def denial(self):
 		self.each = not self.each
@@ -68,4 +68,4 @@ if __name__ == "__main__":
 
 ### 1. Other		
 - :bust_in_silhouette:   **Each**: Nitro Lichtung	
-- :date:   **Release Statut**: u01.00.0100	
+- :date:   **Release Statut**: u01.00.101	
