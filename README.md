@@ -1,14 +1,13 @@
-# Those Who Visit My Page 
+# 0. Thanks for Visiting My Humble Page	
+I am more than glad to share you with Tao of universe.	
+It cannot be true and, cannot even be false.	
 
-I am more than glad to share you with Tao of universe.  
+## 01. What is Self About	
+Thus, it is not a fact but a zen.	
+If any of you generate The Universe with the frame of my humble attempt.	
 
-It cannot be true and, cannot even be false.  
-
-Thus, it is not a fact but a zen. 
-
-If any of you generate The Universe with the frame of my humble attempt.  
-
-Here is the humble display of my work :
+## 10. What it Looks Like
+Here is the humble display of my work :	
 
 ```python
 class Nature:
@@ -23,12 +22,12 @@ class Nature:
 		self.each = not self.each
 		self.other = not self.other
 		return {
-			"other": self.other,
 			"each": self.each
+			"other": self.other,
 			}
 
 	def switch(self):
-		self.each, self.other = self.other, self.each
+		self.other, self.each = self.each, self.other
 		return {
 			"other": self.other,
 			"each": self.each
@@ -64,3 +63,7 @@ if __name__ == "__main__":
 		f"2. Rule of Self Switch: {rule_of_self_switch}\n"
 		)
 ```
+
+### 1. Other		
+- :bust_in_silhouette: Author: Nitro	
+- :date: Release Statut: u01.00.0100	
