@@ -67,5 +67,5 @@ if __name__ == "__main__":
 ```
 
 ### 1. Other		
-- :bust_in_silhouette:   **Author**: Nitro	
+- :bust_in_silhouette:   **Each**: Nitro Lichtung	
 - :date:   **Release Statut**: u01.00.0100	
